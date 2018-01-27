@@ -10,6 +10,7 @@ Vent11
 Drawer1
 Flask1
 Locker2
+Table1
 
 MODELS THAT DONT:
 Burner
@@ -18,4 +19,3 @@ Door
 Microscope (too many polys)
 PC
 Sink2
-Table1
