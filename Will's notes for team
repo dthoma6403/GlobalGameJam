@@ -1,17 +1,19 @@
+MODELS THAT WORK IN UNITY:
+Drawer1 WORKS, NO SPEC SHOWING
+Detergent WORKS
+Flask2 WORKS
+Lamp WORKS
+Locker2 WORKS, NOT TRANSP
+TestTube1 NOT TRANSP
+SinkDirty WORKS
+Flask1 WORKS
+Table1, WORKS
+PC, WORKS
+
 MODELS THAT HAVE MATERIALS:
-Desk
-Detergent
-Flask2
-Lamp
-Locker1
-SinkDirty
-TestTube1
+Desk 
+Locker1 (REDO)
 Vent11
-Drawer1
-Flask1
-Locker2
-Table1
-PC
 Sink2
 
 MODELS THAT DONT:
@@ -19,5 +21,5 @@ Burner
 
 OPTIONAL:
 Dentist's chair
-Door (Made)
+Door (Made else)
 Microscope (too many polys)
