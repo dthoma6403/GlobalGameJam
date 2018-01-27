@@ -9,12 +9,12 @@ TestTube1
 Vent11
 Drawer1
 Flask1
+Locker2
 
 MODELS THAT DONT:
 Burner
 Dentist's chair
 Door
-Locker2
 Microscope (too many polys)
 PC
 Sink2
